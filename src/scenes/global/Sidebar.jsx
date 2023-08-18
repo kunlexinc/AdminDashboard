@@ -110,7 +110,7 @@ const Sidebar = () => {
                   Kunle Akintola
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  Admin Manager
                 </Typography>
               </Box>
             </Box>
